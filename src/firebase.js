@@ -4,7 +4,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDE2gSvewK_x16gHhiVj5svLdefaGpcQlU",
+  apiKey: "firbase api key",
   authDomain: "edtech-project-f33be.firebaseapp.com",
   projectId: "edtech-project-f33be",
   storageBucket: "edtech-project-f33be.appspot.com",
